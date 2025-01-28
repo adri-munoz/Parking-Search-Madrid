@@ -1,0 +1,31 @@
+# Privacy Policy for Parking Search Madrid
+
+Effective Date: January 28, 2025
+
+## Introduction
+Parking Search Madrid (“the App”) is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you use the App.
+
+## Data Collection
+The App collects the following data:
+- **Photos and Camera Access**: Used to take and save images of parking tickets for personal record-keeping. These images are stored locally on your device and are not uploaded to any server.
+- **Location Data**: The App does not collect or store location data. However, it links to external mapping services like Google Maps and Waze for navigation purposes.
+
+## Data Usage
+The App uses your data solely for the following purposes:
+- To allow users to save parking records and reference them later.
+- To assist users in navigating to their selected parking locations.
+
+## Data Storage and Security
+- **Local Storage**: All data, including parking ticket images and records, is stored locally on your device using **SwiftData**. The data is not backed up to external servers or iCloud.
+- **No External Sharing**: The App does not transmit any of your data to external servers or third parties. Your data remains private and accessible only through the App on your device.
+- **User-Controlled Deletion**: You can delete your saved parking records at any time directly within the App.
+
+## Data Sharing
+We do not share your personal data with third parties. Links to Google Maps and Waze are provided for your convenience, but these services operate independently and have their own privacy policies.
+
+## User Control
+You can delete any saved parking records directly within the App. No additional user data is stored outside of your device.
+
+## Contact Us
+If you have any questions about this Privacy Policy, please contact us at adrian@amr-ventures.com.
+
