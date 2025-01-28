@@ -1,6 +1,6 @@
 # Privacy Policy for Parking Search Madrid
 
-**Effective Date**: January 28, 2025
+**Effective Date**: 28/01/2025
 
 ## Introduction
 Parking Search Madrid (“the App”) is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you use the App.
@@ -30,12 +30,12 @@ You can delete any saved parking records directly within the App. No additional 
 This app uses publicly available data provided by the Ayuntamiento de Madrid to enhance the app's functionality. The datasets include:
 
 - [Zona de Bajas Emisiones de Especial Protección (ZBEDEP) Distrito Centro](https://servpub.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=ab7bf756-1234-488f-9395-f2b37baeaebc) (Last updated on 21/09/2021):  
-  Contains information about the low-emission zone regulations for Madrid's Distrito Centro.
+  Information about the low-emission zone regulation area in Madrid's Distrito Centro.
 
 - [Servicio de Estacionamiento Regulado (SER): Calles y número de plazas](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=4973b0dd4a872510VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) (Last updated on 31/12/2024):  
-  Provides details about regulated parking zones, including street locations and the number of available parking spaces.
+  Details about regulated parking zones, including streets and parking capacity.
 
-We use this data solely to provide accurate parking and zone information. The Ayuntamiento de Madrid does not sponsor or endorse this application.
+We use this data solely to provide parking information. The Ayuntamiento de Madrid does not sponsor or endorse this application.
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at adrian@amr-ventures.com.

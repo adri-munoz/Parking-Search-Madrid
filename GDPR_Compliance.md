@@ -34,9 +34,21 @@ The app stores all data locally on the user's device using SwiftData. No persona
 ## 6. **Breach Notification**
 As the app does not process or store data externally, the risk of a data breach is minimized. If any breach of app functionality occurs, users will be notified via the App Store or email (if applicable).
 
-## 7. **Third-Party Services**
+## 7. Data Sources
+To enhance functionality, Parking Search Madrid integrates publicly available datasets from the Ayuntamiento de Madrid. These include:
+
+- [Zona de Bajas Emisiones de Especial Protección (ZBEDEP) Distrito Centro](https://servpub.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=ab7bf756-1234-488f-9395-f2b37baeaebc) (Last updated on 21/09/2021):  
+  Information about the low-emission zone regulation area in Madrid's Distrito Centro.
+
+- [Servicio de Estacionamiento Regulado (SER): Calles y número de plazas](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=4973b0dd4a872510VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) (Last updated on 31/12/2024):  
+  Details about regulated parking zones, including streets and parking capacity.
+
+The app integrates these datasets to provide accurate parking information. No user data is transmitted to or combined with these datasets, and their usage complies with the Ayuntamiento de Madrid’s open data policies.
+
+**Disclaimer:** The Ayuntamiento de Madrid does not sponsor or endorse this application.
+
+## 8. **Third-Party Services**
 - The app links to external services like Google Maps and Waze. These services operate independently and have their own GDPR compliance policies.
 
-## 8. **Contact Information**
-If you have any questions about GDPR compliance or your data rights, contact us at:  
-- **Email:** adrian@amr-ventures.com
+## 9. **Contact Information**
+For GDPR-related inquiries or support, contact us at: adrian@amr-ventures.com.
