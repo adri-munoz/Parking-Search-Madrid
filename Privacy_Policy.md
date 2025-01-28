@@ -35,7 +35,7 @@ This app uses publicly available data provided by the Ayuntamiento de Madrid to 
 - [Servicio de Estacionamiento Regulado (SER): Calles y número de plazas](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=4973b0dd4a872510VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) (Last updated on 31/12/2024):  
   Details about regulated parking zones, including streets and parking capacity.
 
-We use this data solely to provide parking information. The Ayuntamiento de Madrid does not sponsor or endorse this application.
+We use this data solely to provide parking information. This application is neither sponsored nor endorsed by the Ayuntamiento de Madrid.
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at adrian@amr-ventures.com.

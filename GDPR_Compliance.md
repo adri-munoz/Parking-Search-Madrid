@@ -45,7 +45,7 @@ To enhance functionality, Parking Search Madrid integrates publicly available da
 
 The app integrates these datasets to provide accurate parking information. No user data is transmitted to or combined with these datasets, and their usage complies with the Ayuntamiento de Madrid’s open data policies.
 
-**Disclaimer:** The Ayuntamiento de Madrid does not sponsor or endorse this application.
+**Disclaimer:** This application is neither sponsored nor endorsed by the Ayuntamiento de Madrid.
 
 ## 8. **Third-Party Services**
 - The app links to external services like Google Maps and Waze. These services operate independently and have their own GDPR compliance policies.
