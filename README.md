@@ -8,4 +8,4 @@ As you cannot park on the street within the ZBEDEP area unless you have a specia
 
 The app also enables the saving of records of the parking tickets obtained during parking in a garage for future reference and to appeal a penalty in case the parking record is not accurately processed by the authorities imposing the sanction.
 
-![Alt text](images/Parking Search Madrid Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/adri-munoz/Parking-Search-Madrid/refs/heads/main/images/Parking%20Search%20Madrid%20Screenshot.png)
